@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 2PX;
+}
+body{
+background-color: rgb(30, 30, 211);
+color: rgb(255, 255, 255);
+}
+.logo{
+    background-color: blue;
+}
+.u{
+    text-align: center;
+}
